@@ -1,1 +1,1 @@
-# MA6628-Assignment-1
+# MA6628-Assignments
